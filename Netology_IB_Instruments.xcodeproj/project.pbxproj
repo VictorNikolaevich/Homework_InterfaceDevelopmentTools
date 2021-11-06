@@ -16,7 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		845119D92736817D000BD585 /* Navigation.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Navigation.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		845119D92736817D000BD585 /* Netology_IB_Instruments.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Netology_IB_Instruments.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		845119DC2736817D000BD585 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		845119DE2736817D000BD585 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		845119E02736817D000BD585 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -40,7 +40,7 @@
 		845119D02736817D000BD585 = {
 			isa = PBXGroup;
 			children = (
-				845119DB2736817D000BD585 /* Navigation */,
+				845119DB2736817D000BD585 /* Netology_IB_Instruments */,
 				845119DA2736817D000BD585 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -48,12 +48,12 @@
 		845119DA2736817D000BD585 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				845119D92736817D000BD585 /* Navigation.app */,
+				845119D92736817D000BD585 /* Netology_IB_Instruments.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		845119DB2736817D000BD585 /* Navigation */ = {
+		845119DB2736817D000BD585 /* Netology_IB_Instruments */ = {
 			isa = PBXGroup;
 			children = (
 				845119DC2736817D000BD585 /* AppDelegate.swift */,
@@ -64,15 +64,15 @@
 				845119E727368182000BD585 /* LaunchScreen.storyboard */,
 				845119EA27368182000BD585 /* Info.plist */,
 			);
-			path = Navigation;
+			path = Netology_IB_Instruments;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		845119D82736817D000BD585 /* Navigation */ = {
+		845119D82736817D000BD585 /* Netology_IB_Instruments */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 845119ED27368182000BD585 /* Build configuration list for PBXNativeTarget "Navigation" */;
+			buildConfigurationList = 845119ED27368182000BD585 /* Build configuration list for PBXNativeTarget "Netology_IB_Instruments" */;
 			buildPhases = (
 				845119D52736817D000BD585 /* Sources */,
 				845119D62736817D000BD585 /* Frameworks */,
@@ -82,9 +82,9 @@
 			);
 			dependencies = (
 			);
-			name = Navigation;
+			name = Netology_IB_Instruments;
 			productName = Navigation;
-			productReference = 845119D92736817D000BD585 /* Navigation.app */;
+			productReference = 845119D92736817D000BD585 /* Netology_IB_Instruments.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -102,7 +102,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 845119D42736817D000BD585 /* Build configuration list for PBXProject "Navigation" */;
+			buildConfigurationList = 845119D42736817D000BD585 /* Build configuration list for PBXProject "Netology_IB_Instruments" */;
 			compatibilityVersion = "Xcode 13.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -115,7 +115,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				845119D82736817D000BD585 /* Navigation */,
+				845119D82736817D000BD585 /* Netology_IB_Instruments */,
 			);
 		};
 /* End PBXProject section */
@@ -290,7 +290,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = Navigation/Info.plist;
+				INFOPLIST_FILE = Netology_IB_Instruments/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -301,7 +301,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = ru.victordolgov.Navigation;
+				PRODUCT_BUNDLE_IDENTIFIER = ru.victordolgov.Netology_IB_Instruments;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -317,7 +317,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = Navigation/Info.plist;
+				INFOPLIST_FILE = Netology_IB_Instruments/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -328,7 +328,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = ru.victordolgov.Navigation;
+				PRODUCT_BUNDLE_IDENTIFIER = ru.victordolgov.Netology_IB_Instruments;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -339,7 +339,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		845119D42736817D000BD585 /* Build configuration list for PBXProject "Navigation" */ = {
+		845119D42736817D000BD585 /* Build configuration list for PBXProject "Netology_IB_Instruments" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				845119EB27368182000BD585 /* Debug */,
@@ -348,7 +348,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		845119ED27368182000BD585 /* Build configuration list for PBXNativeTarget "Navigation" */ = {
+		845119ED27368182000BD585 /* Build configuration list for PBXNativeTarget "Netology_IB_Instruments" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				845119EE27368182000BD585 /* Debug */,
