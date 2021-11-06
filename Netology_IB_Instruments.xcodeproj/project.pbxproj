@@ -16,6 +16,7 @@
 		845119F12736A616000BD585 /* ProfileView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 845119F02736A616000BD585 /* ProfileView.xib */; };
 		845119F32736AA0E000BD585 /* ProfileView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 845119F22736AA0E000BD585 /* ProfileView.swift */; };
 		845119F62736AE99000BD585 /* Profile.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 845119F52736AE99000BD585 /* Profile.storyboard */; };
+		845119F82736AF10000BD585 /* ProfileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 845119F72736AF10000BD585 /* ProfileViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,6 +31,7 @@
 		845119F02736A616000BD585 /* ProfileView.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = ProfileView.xib; sourceTree = "<group>"; };
 		845119F22736AA0E000BD585 /* ProfileView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileView.swift; sourceTree = "<group>"; };
 		845119F52736AE99000BD585 /* Profile.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = Profile.storyboard; sourceTree = "<group>"; };
+		845119F72736AF10000BD585 /* ProfileViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,7 +68,7 @@
 				845119DE2736817D000BD585 /* SceneDelegate.swift */,
 				845119E02736817D000BD585 /* ViewController.swift */,
 				845119E22736817D000BD585 /* Main.storyboard */,
-				845119F52736AE99000BD585 /* Profile.storyboard */,
+				845119F92736AF1E000BD585 /* Profile */,
 				845119F42736AE64000BD585 /* ProfileView */,
 				845119E527368182000BD585 /* Assets.xcassets */,
 				845119E727368182000BD585 /* LaunchScreen.storyboard */,
@@ -82,6 +84,15 @@
 				845119F22736AA0E000BD585 /* ProfileView.swift */,
 			);
 			path = ProfileView;
+			sourceTree = "<group>";
+		};
+		845119F92736AF1E000BD585 /* Profile */ = {
+			isa = PBXGroup;
+			children = (
+				845119F52736AE99000BD585 /* Profile.storyboard */,
+				845119F72736AF10000BD585 /* ProfileViewController.swift */,
+			);
+			path = Profile;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -159,6 +170,7 @@
 			files = (
 				845119F32736AA0E000BD585 /* ProfileView.swift in Sources */,
 				845119E12736817D000BD585 /* ViewController.swift in Sources */,
+				845119F82736AF10000BD585 /* ProfileViewController.swift in Sources */,
 				845119DD2736817D000BD585 /* AppDelegate.swift in Sources */,
 				845119DF2736817D000BD585 /* SceneDelegate.swift in Sources */,
 			);
