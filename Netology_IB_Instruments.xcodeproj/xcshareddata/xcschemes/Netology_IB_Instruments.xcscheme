@@ -15,7 +15,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "845119D82736817D000BD585"
-               BuildableName = "Navigation.app"
+               BuildableName = "Netology_IB_Instruments.app"
                BlueprintName = "Netology_IB_Instruments"
                ReferencedContainer = "container:Netology_IB_Instruments.xcodeproj">
             </BuildableReference>
@@ -45,7 +45,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "845119D82736817D000BD585"
-            BuildableName = "Navigation.app"
+            BuildableName = "Netology_IB_Instruments.app"
             BlueprintName = "Netology_IB_Instruments"
             ReferencedContainer = "container:Netology_IB_Instruments.xcodeproj">
          </BuildableReference>
@@ -62,7 +62,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "845119D82736817D000BD585"
-            BuildableName = "Navigation.app"
+            BuildableName = "Netology_IB_Instruments.app"
             BlueprintName = "Netology_IB_Instruments"
             ReferencedContainer = "container:Netology_IB_Instruments.xcodeproj">
          </BuildableReference>
